@@ -1,15 +1,3 @@
-# GazeboMotionCapture
-
-### install
-
-```shell
-pip install GazeboMotionCapture
-```
-
-### usage
-
-```python
-#example with dronekit
 print "Start simulator (SITL)"
 import dronekit_sitl
 sitl = dronekit_sitl.start_default()
@@ -50,5 +38,3 @@ motion_capture.start()
 
 time.sleep(10)
 motion_capture.exit()
-```
-
