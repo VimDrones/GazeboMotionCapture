@@ -8,6 +8,12 @@ Motion Capture System Simulator Base on Gazebo, can be use for vehicle position 
 pip install GazeboMotionCapture
 ```
 
+### dev
+
+```shell
+ git submodule update --init --recursive
+```
+
 ### usage
 
 ```python

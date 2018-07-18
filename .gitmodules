@@ -1,0 +1,3 @@
+[submodule "pygazebo"]
+	path = pygazebo
+	url = https://github.com/VimDrones/pygazebo.git
